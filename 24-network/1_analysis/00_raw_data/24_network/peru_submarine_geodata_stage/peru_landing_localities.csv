@@ -1,0 +1,4 @@
+﻿point_id,name,region,admin_department,country,latitude,longitude,coordinate_kind,source_url
+PE_MANCORA,Máncora,North,Piura,Peru,-4.154,-81.0538,approximate landing locality; NOT surveyed station,https://geocables.com/locations/pe
+PE_LURIN,Lurín,Centre,Lima,Peru,-12.2785,-76.8743,approximate landing locality; NOT surveyed station,https://geocables.com/locations/pe
+PE_ILO,Ilo,South,Moquegua,Peru,-17.6412,-71.3237,approximate landing locality; NOT surveyed station,https://geocables.com/locations/pe

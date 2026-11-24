@@ -1,0 +1,19 @@
+{
+  "dataset": "OSIPTEL fixed internet connections using fibre by department",
+  "period": "2024-12-31",
+  "source_publication": "Informe 280-2025-DPRC",
+  "source_table": "Table 3, printed page16",
+  "source_revision_date": "2025-08-20",
+  "download_date": "2026-11-24",
+  "source_url": "https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf",
+  "method": "Downloaded official PDF via HTTPS, extracted text with pdftotext -layout, parsed all25 department rows, compared sums with printed national totals.",
+  "fibre_definition": "Conexiones de Internet fijo con fibra óptica; do not relabel FTTH-only.",
+  "segment": "Residential and commercial combined (no segment breakdown in source table).",
+  "units": "Active subscription/connection counts, not households, coverage, route length or capacity.",
+  "administrative_coverage": "24departments plus Callao. Lima is entire department.",
+  "national_total_2024": 2985098,
+  "national_total_2023": 2024043,
+  "preferred_normalization_for_this_extract": "100 * fibre_connections_2024 / INEI population2024. Label connections per100residents.",
+  "not_current_claim": "These are December2024 observations, not2026; choose clear date on final map.",
+  "revisions": "Current PUNKU national Dec2024FTTX revised to2991439 as of2026-08-12; use the consistent2025revision departmental table, not mix national vintages."
+}

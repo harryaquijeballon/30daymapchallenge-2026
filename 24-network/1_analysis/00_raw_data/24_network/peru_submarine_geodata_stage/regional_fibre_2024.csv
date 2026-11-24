@@ -1,0 +1,26 @@
+dept_code,department,fibre_connections,period,customer_scope,source_url,source_table,source_vintage
+01,AMAZONAS,8663,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+02,ANCASH,92462,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+03,APURIMAC,19369,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+04,AREQUIPA,122865,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+05,AYACUCHO,33769,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+06,CAJAMARCA,45751,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+07,CALLAO,109182,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+08,CUSCO,56050,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+09,HUANCAVELICA,9348,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+10,HUANUCO,36725,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+11,ICA,137404,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+12,JUNIN,80968,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+13,LA LIBERTAD,149209,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+14,LAMBAYEQUE,143478,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+15,LIMA,1508439,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+16,LORETO,28330,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+17,MADRE DE DIOS,5465,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+18,MOQUEGUA,27007,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+19,PASCO,8065,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+20,PIURA,130830,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+21,PUNO,45670,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+22,SAN MARTIN,52674,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+23,TACNA,38945,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+24,TUMBES,37419,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20
+25,UCAYALI,57011,2024-12,residential_and_commercial,https://www.osiptel.gob.pe/media/uareffhf/informe280-2025-dprc.pdf,"Table 3, printed p16",2025-08-20

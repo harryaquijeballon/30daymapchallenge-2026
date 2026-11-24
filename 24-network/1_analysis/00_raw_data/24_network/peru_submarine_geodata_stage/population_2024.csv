@@ -1,0 +1,26 @@
+dept_code,department,population,reference_date,source_url
+01,Amazonas,430123,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+02,Áncash,1202171,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+03,Apurímac,426626,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+04,Arequipa,1605569,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+05,Ayacucho,669737,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+06,Cajamarca,1447707,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+07,Prov. Const. del Callao,1209614,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+08,Cusco,1398036,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+09,Huancavelica,335142,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+10,Huánuco,746509,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+11,Ica,1062346,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+12,Junín,1380561,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+13,La Libertad,2130145,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+14,Lambayeque,1361554,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+15,Lima,11304993,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+16,Loreto,1057592,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+17,Madre de Dios,197096,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+18,Moquegua,201129,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+19,Pasco,265392,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+20,Piura,2149978,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+21,Puno,1208802,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+22,San Martín,945523,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+23,Tacna,396180,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+24,Tumbes,266653,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
+25,Ucayali,639279,2024-06-30,https://www.inei.gob.pe/media/MenuRecursivo/indices_tematicos/proy_03_4.xlsx
