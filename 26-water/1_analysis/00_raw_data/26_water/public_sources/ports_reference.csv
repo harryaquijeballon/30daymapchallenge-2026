@@ -1,0 +1,51 @@
+port_id,port,lat,lon,coordinate_source
+zorritos,Zorritos,-3.66781,-80.65414,inei_2018
+talara,Talara,-4.57306,-81.29839,inei_2018
+paita,Paita,-5.08464,-81.10694,inei_2018
+bayovar,Bayóvar,-5.79497,-81.05633,inei_2018
+pimentel,Pimentel,-6.83653,-79.93828,inei_2018
+malabrigo,Malabrigo,-7.69536,-79.43592,inei_2018
+salaverry,Salaverry,-8.22817,-78.98225,inei_2018
+coishco,Coishco,-9.02069,-78.62372,inei_2018
+chimbote,Chimbote,-9.07383,-78.61156,inei_2018
+supe,Supe,-10.80050,-77.74547,inei_2018
+carquin,Carquín,-11.08167,-77.63333,inei_2014
+chancay,Chancay,-11.58528,-77.27314,inei_2018
+callao,Callao,-12.04678,-77.14406,inei_2018
+tambo_de_mora,Tambo de Mora,-13.47125,-76.19117,inei_2018
+pisco,Pisco,-13.69389,-76.22417,inei_2014
+matarani,Matarani,-17.00083,-72.10889,inei_2018
+mollendo,Mollendo,-17.03069,-72.01558,inei_2018
+pacocha,Pacocha,-17.61157,-71.34018,pacocha_locality
+ilo,Ilo,-17.64444,-71.34750,inei_2018
+puerto_pizarro,Puerto Pizarro,-3.49950,-80.38956,inei_2018
+caleta_la_cruz,Caleta La Cruz,-3.63581,-80.58844,inei_2018
+grau,Grau,-3.66464,-80.63261,inei_2018
+acapulco,Acapulco,-3.73975,-80.77233,inei_2018
+cancas,Cancas,-3.94514,-80.93975,inei_2018
+mancora,Máncora,-4.11086,-81.06736,inei_2018
+los_organos,Los Órganos,-4.17844,-81.13422,inei_2018
+el_nuro,El Ñuro,-4.21831,-81.18122,inei_2018
+cabo_blanco,Cabo Blanco,-4.25058,-81.23058,inei_2018
+parachique,Parachique,-5.77061,-80.86753,inei_2018
+puerto_rico,Puerto Rico,-5.82236,-81.03236,inei_2018
+san_jose,San José,-6.76803,-79.97061,inei_2018
+santa_rosa,Santa Rosa,-6.88161,-79.92306,inei_2018
+pacasmayo,Pacasmayo,-7.39825,-79.57167,inei_2018
+samanco,Samanco,-9.25589,-78.49811,inei_2018
+casma,Casma,-9.45581,-78.38614,inei_2018
+culebras,Culebras,-9.94906,-78.22894,inei_2018
+huarmey,Huarmey,-10.09731,-78.17136,inei_2018
+ancon,Ancón,-11.77272,-77.17622,inei_2018
+chorrillos,Chorrillos,-12.16522,-77.02978,inei_2018
+pucusana,Pucusana,-12.47992,-76.79972,inei_2018
+san_juan_de_marcona,San Juan de Marcona,-15.35875,-75.16136,inei_2018
+lomas,Lomas,-15.57028,-74.85306,inei_2018
+chala,Chala,-15.86525,-74.24900,inei_2018
+atico,Ático,-16.23017,-73.69714,inei_2018
+la_planchada,La Planchada,-16.40639,-73.22056,inei_2018
+quilca,Quilca,-16.71464,-72.43478,inei_2018
+caleta_vila_vila,Caleta Vila Vila,-18.11722,-70.72861,inei_2018
+santa,Santa,-8.97778,-78.65333,inei_2014
+vegueta,Végueta,-11.00000,-77.67500,inei_2014
+san_andres,San Andrés,-13.73333,-76.22511,dhn_2025
